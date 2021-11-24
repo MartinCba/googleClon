@@ -49,3 +49,16 @@ a {
     border-radius: 50%;
     margin-left: 1rem;
 }
+main {
+    margin-top: 15rem;
+    text-align: center;
+}
+.main-logo {
+    width: 53rem;
+    margin: 0 auto;
+    margin-bottom: 3.5rem;
+}
+.main-logo img {
+    width: 27.2rem;
+    height: 9.2rem;
+}
